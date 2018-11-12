@@ -18,9 +18,19 @@
     },
 
     "commands": {
-        "pause": {
+        "previous": {
+            "description": "YTmusic previous",
+            "suggested_key": "Alt+Shift+1",
+            "global": true
+        },
+        "plause": {
+            "description": "YTmusic pause",
+            "suggested_key": "Alt+Shift+2",
+            "global": true
+        },
+        "next": {
             "description": "YTmusic next",
-            "suggested_key": "Alt+Shift+F",
+            "suggested_key": "Alt+Shift+3",
             "global": true
         }
     },
